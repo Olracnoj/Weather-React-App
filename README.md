@@ -1,3 +1,8 @@
+# Weather React App Design
+
+This is a React Weather app that is meant to display the weather in multiple cities. My name is JonCarlo Curiale and I'm designing this app as part of a graduate course at NYIT in 2023. I'm thinking I'll display 3 cities, should be pretty neat by the end of it. Nothing too special but for my first React app I think it'll be decently dope. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
