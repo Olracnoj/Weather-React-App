@@ -1,3 +1,27 @@
+
+.cardCity-Title {
+  font-size: 40px;
+  color:crimson;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+.forecast-background {
+  background-color: slategray;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+body {
+  background-image: url(../public/logo192.png)
+}
+
+.card-background {
+  background-color: moccasin;
+}
+
 .App {
   text-align: center;
 }
